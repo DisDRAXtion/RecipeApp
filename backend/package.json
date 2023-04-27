@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DisDRAXtion/RecipeApp/issues"
   },
-  "homepage": "https://github.com/DisDRAXtion/RecipeApp#readme"
+  "homepage": "https://github.com/DisDRAXtion/RecipeApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
